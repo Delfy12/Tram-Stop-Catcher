@@ -7,7 +7,6 @@ using namespace std;
 
 int main()
 {
-<<<<<<< HEAD
     sf::RectangleShape rectangle(sf::Vector2f(160.0, 80.0));
     rectangle.setPosition(200.0, 300.0);
 
@@ -25,8 +24,4 @@ int main()
         }
 
         return 0;
-=======
-    cout << "Dobrze Cie widziec, przyjacielu!" << endl;
-    return 0;
->>>>>>> d592be898096683ccd6c95662f1e5cc6c774bd8c
 }
